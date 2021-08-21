@@ -2,7 +2,7 @@ import React from 'react';
 import { BrowserRouter as Router, Link, Route, Switch} from 'react-router-dom';
 import DisplayStock from './components/DisplayStock';
 import AddStock from './components/AddStock';
-import RemoveStock from './components/RemoveStock';
+import RemoveStock from './components/RemoveStock'
 
 export default function App() {
     return (
